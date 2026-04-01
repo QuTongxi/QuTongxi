@@ -17,3 +17,5 @@
 ❗[十大重要事件](works/ten_events.md)（未完待续，持续更新中）
 
 📚[集合论基础](works/集合论基础.pdf)（改编自南京大学仲盛老师信息与计算科学导论PPT）（已完结，不想再继续写了）
+
+.[Wiki站点].(https://github.com/QuTongxi/QuTongxi/wiki)
